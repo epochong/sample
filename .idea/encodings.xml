@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/sample/CounterImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorld.idl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorld.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldHolder.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldOperations.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldPOA.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/HelloWorldServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sample/_HelloWorldStub.java" charset="GBK" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+module CounterApp{   
+    interface Counter{   
+        readonly attribute long value;   
+        void inc();   
+        void dec();   
+    };   
+};
